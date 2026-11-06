@@ -35,7 +35,7 @@ Las bodegas de Maipú están a menos de 3 km entre sí, así que comparten zonas
 
 ### 🌐 Mapa Web Interactivo
 
-👉 [Ver Mapa Interactivo de Bodegas de Mendoza](https://genaro-sfrede.github.io/Modulo_4/mapa_bodegas/index.html)
+👉 [Ver Mapa Interactivo de Bodegas de Mendoza](https://Luciano-Migoni.github.io/Modulo_4/mapa_bodegas/index.html)
 
 ---
 
@@ -62,11 +62,11 @@ La cobertura de nieve de 2026 fue un 25,6 % mayor. Coincide con la nevada histó
 
 ### 🌐 Mapa Web Interactivo
 
-👉 [Ver Mapa Interactivo del Valle de las Lágrimas](https://genaro-sfrede.github.io/Modulo_4/mapa_nieve/index.html)
+👉 [Ver Mapa Interactivo del Valle de las Lágrimas](https://Luciano-Migoni.github.io/Modulo_4/mapa_nieve/index.html)
 
 ---
 
 ## 📥 Descargas
 
-- [Descarga aquí el paquete de la Actividad 1 (.zip)](https://raw.githubusercontent.com/genaro-sfrede/Modulo_4/main/M4A1.zip)
-- [Descarga aquí el paquete de la Actividad 2 (.zip)](https://raw.githubusercontent.com/genaro-sfrede/Modulo_4/main/M4A2.zip)
+- [Descarga aquí el paquete de la Actividad 1 (.zip)](https://raw.githubusercontent.com/Luciano-Migoni/Modulo_4/main/M4A1.zip)
+- [Descarga aquí el paquete de la Actividad 2 (.zip)](https://raw.githubusercontent.com/Luciano-Migoni/Modulo_4/main/M4A2.zip)
